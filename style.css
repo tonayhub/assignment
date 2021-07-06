@@ -1,0 +1,35 @@
+body{
+    font-family: 'Otomanopee One', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 45px;
+
+    
+}
+.orange{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 100%;
+    padding-left: 10%;
+    
+}
+.half-width img{
+    width: 80%;
+    padding-right: 5%;
+    
+}
+.order-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.top{
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+}
